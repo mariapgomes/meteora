@@ -8,6 +8,9 @@
 .btn-destaque {
   background-color: #9353FF;
 }
+.btn-destaque:hover {
+  background-color: rgba(147, 9, 255, 1);
+}
 .cor-verde {
   color: #DAFF01;
 }
