@@ -1,0 +1,22 @@
+.texto-menor {
+  font-size: .8125rem;
+  margin: 0;
+}
+.divs-facilidades {
+  width: 250px;
+}
+.btn-destaque {
+  background-color: #9353FF;
+}
+.btn-destaque:hover {
+  background-color: rgba(147, 9, 255, 1);
+}
+.cor-verde {
+  color: #DAFF01;
+}
+.font-48 {
+  font-size: 48px;
+}
+.width-form {
+  max-width: 729px;
+}
